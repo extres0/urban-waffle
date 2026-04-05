@@ -235,4 +235,4 @@ vless://6550dbd7-fc82-4ba3-a9bb-7bbb01638f79@104.18.32.47:8880?mode=auto&path=%2
 vless://e5d69947-1c36-416a-d2f8-cc470d77a297@92.242.198.30:55264?type=ws&path=%2F&host=&security=none#🌐 [AS42337] Respina Networks & Beyond PJSC #1
 vless://e87d4a88-cd28-4c07-aced-f07b9b3bab59@45.129.36.171:47093?type=ws&path=%2F&host=&security=none#🌐 [AS51026] Dade Pardazi Mobinhost Co LTD #1
 vless://f4331676-b3fe-4006-b2d8-5719e2549d85@92.242.198.31:4455?encryption=none&security=none&type=ws&path=%2F#🌐 [AS42337] Respina Networks & Beyond PJSC #2
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🌐 [AS214922] FanAvaran Mihan Mizban PJSC #1
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🌐 [AS214922] FanAvaran Mihan Mizban PJSC #1 
